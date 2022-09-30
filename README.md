@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @carrotmvp
-- 👀 I’m interested in reading
+- 👀 I’m interested in reading, playing games 
 - 🌱 I’m currently learning computer science and technology
-- 💞️ //I’m looking to collaborate on ...
-- 📫 How to reach me 2533161109@qq.com
+- 
+- 📫 How to reach me carrot_linda@outlook.com
 
 <!---
 carrotmvp/carrotmvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
